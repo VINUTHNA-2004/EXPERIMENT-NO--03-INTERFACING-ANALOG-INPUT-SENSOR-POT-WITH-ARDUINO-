@@ -94,9 +94,9 @@ void loop()
 ```
 ## Simulation output:
 
-
-![pot](https://user-images.githubusercontent.com/94226297/189469146-831ed07a-5112-4f09-837a-44e951a28d13.png)
-
+![output](https://github.com/VINUTHNA-2004/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/blob/main/s1.png?raw=true)
+![output](https://github.com/VINUTHNA-2004/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/blob/main/s2.png?raw=true)
+![output](https://github.com/VINUTHNA-2004/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/blob/main/s3.png?raw=true)
 
 
 
